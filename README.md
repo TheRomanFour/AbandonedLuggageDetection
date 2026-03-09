@@ -19,3 +19,4 @@ Dynamic Annotations: Displays real-time annotations, including bounding boxes, o
 ## Dataset links:
 * https://app.roboflow.com/cars-0jbgu/luggage-person-detection-airport (Airport)
 * https://app.roboflow.com/cars-0jbgu/luggage-detection-axdmv/1 (City of Rijeka, Korzo)
+* https://app.roboflow.com/cars-0jbgu/luggage_2_dataset/2 (ALD baseline for detector on multiple datasets)
