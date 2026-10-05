@@ -120,3 +120,4 @@ def radius_ultimate_dynamic_v1_4(p_info, pid, p_history, s_history, sid, neighbo
     
     # Safety clip based on physical human proportions
     return int(np.clip(final_r, h * 0.4, h * 2.5))
+
